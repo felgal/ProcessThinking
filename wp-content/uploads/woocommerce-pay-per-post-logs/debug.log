@@ -1,0 +1,2461 @@
+[2018-12-25 21:00:46]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ee5f05ff4d
+    [_wp_http_referer] => /wp-admin/post.php?post=13&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/videos
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/videos
+    [post_ID] => 13
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Vídeos
+    [post_title] => Vídeos
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 02
+    [ss] => 21
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 21
+    [hidden_mn] => 02
+    [cur_mn] => 00
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [25] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => videos
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 13
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 21:00:33]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 6ca859cf8a
+    [_wp_http_referer] => /wp-admin/post.php?post=19&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/comprar
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/comprar
+    [post_ID] => 19
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Comprar
+    [post_title] => Cards Kit
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 03
+    [ss] => 08
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 21
+    [hidden_mn] => 03
+    [cur_mn] => 00
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [28] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => comprar
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 19
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 21:00:33]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 6ca859cf8a
+    [_wp_http_referer] => /wp-admin/post.php?post=19&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/comprar
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/comprar
+    [post_ID] => 19
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Comprar
+    [post_title] => Cards Kit
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 03
+    [ss] => 08
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 21
+    [hidden_mn] => 03
+    [cur_mn] => 00
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [28] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => comprar
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 19
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 20:55:31]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 3efe353626
+    [_wp_http_referer] => /wp-admin/post.php?post=10&action=edit&message=1
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/post.php?post=10&action=edit
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/post.php?post=10&action=edit
+    [post_ID] => 10
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Notícias
+    [post_title] => Notícias
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 59
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 20
+    [hidden_mn] => 59
+    [cur_mn] => 55
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => tpl-blog.php
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [13] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => noticias
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 10
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 20:55:05]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 3efe353626
+    [_wp_http_referer] => /wp-admin/post.php?post=10&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/noticias
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/noticias
+    [post_ID] => 10
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Notícias
+    [post_title] => Notícias
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 59
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 20
+    [hidden_mn] => 59
+    [cur_mn] => 54
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [13] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => noticias
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 10
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 19:54:14]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 905a0cdd5e
+    [_wp_http_referer] => /wp-admin/post.php?post=11&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/solucoes
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/solucoes
+    [post_ID] => 11
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Soluções
+    [post_title] => Soluções
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 00
+    [ss] => 04
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 19
+    [hidden_mn] => 00
+    [cur_mn] => 53
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [16] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => solucoes
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 11
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 19:51:22]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => efd55a25e5
+    [_wp_http_referer] => /wp-admin/post.php?post=9&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/sobre?preview_nonce=966b9955a7&preview=true
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/sobre?preview_nonce=966b9955a7&preview=true
+    [post_ID] => 9
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Sobre
+    [post_title] => Sobre
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 1
+    [content] => <h2>Sobre</h2>
+Os processos existem em todas as empresas, independente do seu tamanho ou setor de atuação, mesmo que não sejam claros, visíveis, documentados ou organizados. O problema é que geralmente as startups e MPMEs (Micro, Pequenas e Médias Empresas) não têm o hábito de parar para pensar nos seus processos. O atual cenário de competitividade, oportunidades de negócios e grandes desafios tecnológicos consome rapidamente o fôlego destas empresas que muitas vezes não conseguem planejar ou organizar os seus processos.
+
+Por outro lado, as abordagens tradicionais de Gestão de Processos de Negócio (Business Process Management – BPM) demandam um esforço grande para a modelagem e análise dos processos. Isso acaba resultando em um custo elevado e a preocupação com os processos e sua gestão muitas vezes torna-se um luxo restrito às grandes empresas.
+Assim, a proposta do Process Thinking é promover a análise e repensar dos principais processos de negócio de forma lúdica, ágil e inovadora. O principal objetivo é aproximar a gestão dos processos da realidade das startups e MPMEs, tornando-a um instrumento que faça parte da gestão do dia-a-dia destas empresas.
+<h2>Entenda um pouco mais!</h2>
+https://www.youtube.com/watch?v=dPcjrKUy25U
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 49
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 51
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [9] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => sobre
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 9
+    [post_content] => <h2>Sobre</h2>
+Os processos existem em todas as empresas, independente do seu tamanho ou setor de atuação, mesmo que não sejam claros, visíveis, documentados ou organizados. O problema é que geralmente as startups e MPMEs (Micro, Pequenas e Médias Empresas) não têm o hábito de parar para pensar nos seus processos. O atual cenário de competitividade, oportunidades de negócios e grandes desafios tecnológicos consome rapidamente o fôlego destas empresas que muitas vezes não conseguem planejar ou organizar os seus processos.
+
+Por outro lado, as abordagens tradicionais de Gestão de Processos de Negócio (Business Process Management – BPM) demandam um esforço grande para a modelagem e análise dos processos. Isso acaba resultando em um custo elevado e a preocupação com os processos e sua gestão muitas vezes torna-se um luxo restrito às grandes empresas.
+Assim, a proposta do Process Thinking é promover a análise e repensar dos principais processos de negócio de forma lúdica, ágil e inovadora. O principal objetivo é aproximar a gestão dos processos da realidade das startups e MPMEs, tornando-a um instrumento que faça parte da gestão do dia-a-dia destas empresas.
+<h2>Entenda um pouco mais!</h2>
+https://www.youtube.com/watch?v=dPcjrKUy25U
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 19:51:22]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => efd55a25e5
+    [_wp_http_referer] => /wp-admin/post.php?post=9&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/sobre?preview_nonce=966b9955a7&preview=true
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/sobre?preview_nonce=966b9955a7&preview=true
+    [post_ID] => 9
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Sobre
+    [post_title] => Sobre
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 1
+    [content] => <h2>Sobre</h2>
+Os processos existem em todas as empresas, independente do seu tamanho ou setor de atuação, mesmo que não sejam claros, visíveis, documentados ou organizados. O problema é que geralmente as startups e MPMEs (Micro, Pequenas e Médias Empresas) não têm o hábito de parar para pensar nos seus processos. O atual cenário de competitividade, oportunidades de negócios e grandes desafios tecnológicos consome rapidamente o fôlego destas empresas que muitas vezes não conseguem planejar ou organizar os seus processos.
+
+Por outro lado, as abordagens tradicionais de Gestão de Processos de Negócio (Business Process Management – BPM) demandam um esforço grande para a modelagem e análise dos processos. Isso acaba resultando em um custo elevado e a preocupação com os processos e sua gestão muitas vezes torna-se um luxo restrito às grandes empresas.
+Assim, a proposta do Process Thinking é promover a análise e repensar dos principais processos de negócio de forma lúdica, ágil e inovadora. O principal objetivo é aproximar a gestão dos processos da realidade das startups e MPMEs, tornando-a um instrumento que faça parte da gestão do dia-a-dia destas empresas.
+<h2>Entenda um pouco mais!</h2>
+https://www.youtube.com/watch?v=dPcjrKUy25U
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 49
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 51
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [9] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => sobre
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 9
+    [post_content] => <h2>Sobre</h2>
+Os processos existem em todas as empresas, independente do seu tamanho ou setor de atuação, mesmo que não sejam claros, visíveis, documentados ou organizados. O problema é que geralmente as startups e MPMEs (Micro, Pequenas e Médias Empresas) não têm o hábito de parar para pensar nos seus processos. O atual cenário de competitividade, oportunidades de negócios e grandes desafios tecnológicos consome rapidamente o fôlego destas empresas que muitas vezes não conseguem planejar ou organizar os seus processos.
+
+Por outro lado, as abordagens tradicionais de Gestão de Processos de Negócio (Business Process Management – BPM) demandam um esforço grande para a modelagem e análise dos processos. Isso acaba resultando em um custo elevado e a preocupação com os processos e sua gestão muitas vezes torna-se um luxo restrito às grandes empresas.
+Assim, a proposta do Process Thinking é promover a análise e repensar dos principais processos de negócio de forma lúdica, ágil e inovadora. O principal objetivo é aproximar a gestão dos processos da realidade das startups e MPMEs, tornando-a um instrumento que faça parte da gestão do dia-a-dia destas empresas.
+<h2>Entenda um pouco mais!</h2>
+https://www.youtube.com/watch?v=dPcjrKUy25U
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 19:40:43]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => efd55a25e5
+    [_wp_http_referer] => /wp-admin/post.php?post=9&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/sobre
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/sobre
+    [post_ID] => 9
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => Sobre
+    [post_title] => Sobre
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 49
+    [hidden_mm] => 11
+    [cur_mm] => 12
+    [hidden_jj] => 14
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 35
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [meta] => Array
+        (
+            [9] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => 493a67171f
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [add_comment_nonce] => 3b29982216
+    [_ajax_fetch_list_nonce] => ad2973f776
+    [post_name] => sobre
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 9
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-25 19:27:33]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => c25a7514f5
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/
+    [auto_draft] => 
+    [post_ID] => 79
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => 
+    [post_title] => DICT facilitates local startup meet-up in CDO
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => <div class=\"row collapse world-new-section\">
+<div class=\"banner-section\">
+<div class=\"banner-text\">
+<div>
+
+CAGAYAN DE ORO CITY, December 17 (PIA)--The Department of Information and Communications Technology (DICT) gathered some 20 technopreneurs for a Local StartUp mapping with Focused Group Discussion (FGD) and community meetup to evaluate and strengthen the startup ecosystem here.
+
+\"The main goal is to have this ecosystem included in the cities just like Cagayan de Oro so that IT-BPM industry will come back in,\" said Engr. Eugene Raposala III of DICT.
+
+The investors have a score card to determine if the city has this ecosystem, and if they see we are ready, they will put us back in the top 100 IT-BPMs ready cities in the world, he added.
+
+During the mapping, successful tech startup entrepreneurs shared their journey on how they built their own businesses. They also gave advices and some words of wisdom to those aspiring tech startups.
+
+One of the speakers, CEO and co-founder of Pinoy Travel, Aurora Soriano shared \"you need to find a problem in your community. There are problems everywhere,\" she said, \"and use technology to solve the problem.\"
+
+In her experience, she had to find her startup business in the bus terminal.
+
+With flocks of people going to their hometown especially during holidays, she thought, if these people only knew the schedule of these buses, they won\'t have to wait for hours for availability and push themselves with everybody else to get a ride to their hometowns.
+
+In 2012, she created a website called Pinoy Travel, where just like booking for air flights, now travellers can also book their bus trips.
+
+She said, technology is a good way to resolve things because it is cheap.
+
+She cited Grab, where with just a software, the problem in taxi transportation is fixed. Plus, they don\'t have that many people to maintain that service.
+
+Now, she is trying to deal with local bus companies in Cagayan de Oro to join her website so that they too can experience having to upgrade with technology as tourists do not only come from the Philippines but also other countries like China, Korea and others.
+
+John Vincent Fiel, co-founder of Wela School Systems, a local tech startup in Cagayan de Oro City reiterated that an app or software should be something that can solve a problem of a person or community. \"First, mangita gyud og problem sa tao - First, look for a problem,\" he said.
+
+His team came up with a software that helps schools with more efficient grading systems. Teachers specifically would no longer use manual calculations but through a software installed in their computers.
+
+He said he will not force everyone to be entrepreneurs. \"Each one of us is unique,\" he said.
+
+But these movements, startup meetup can spark those who don\'t know that this can be done or those that have the potential but just need more influence.
+
+\"For employees, I\'m not saying that they are apart because in the startup we need people also,\" he said.
+
+His advice: \"Go to companies that are very innovative, active and would give you so much learning and experience.\"
+
+The mapping aimed to support DICT\'s seedPH program in building and establising a network to organize a startup ecosystem in local communities.
+
+The event was partnered by IdeaSpace Foundation and Cagayan de Oro ICT Business Council. (Sheena Pabia/PIA 10 intern)
+
+</div>
+</div>
+</div>
+</div>
+<div class=\"row collapse share-section\"></div>
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 25
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 24
+    [ss] => 43
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 25
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 24
+    [cur_mn] => 24
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 1b29fa7a7d
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 83
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => 4d7e0b0175
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 79
+    [post_content] => <div class=\"row collapse world-new-section\">
+<div class=\"banner-section\">
+<div class=\"banner-text\">
+<div>
+
+CAGAYAN DE ORO CITY, December 17 (PIA)--The Department of Information and Communications Technology (DICT) gathered some 20 technopreneurs for a Local StartUp mapping with Focused Group Discussion (FGD) and community meetup to evaluate and strengthen the startup ecosystem here.
+
+\"The main goal is to have this ecosystem included in the cities just like Cagayan de Oro so that IT-BPM industry will come back in,\" said Engr. Eugene Raposala III of DICT.
+
+The investors have a score card to determine if the city has this ecosystem, and if they see we are ready, they will put us back in the top 100 IT-BPMs ready cities in the world, he added.
+
+During the mapping, successful tech startup entrepreneurs shared their journey on how they built their own businesses. They also gave advices and some words of wisdom to those aspiring tech startups.
+
+One of the speakers, CEO and co-founder of Pinoy Travel, Aurora Soriano shared \"you need to find a problem in your community. There are problems everywhere,\" she said, \"and use technology to solve the problem.\"
+
+In her experience, she had to find her startup business in the bus terminal.
+
+With flocks of people going to their hometown especially during holidays, she thought, if these people only knew the schedule of these buses, they won\'t have to wait for hours for availability and push themselves with everybody else to get a ride to their hometowns.
+
+In 2012, she created a website called Pinoy Travel, where just like booking for air flights, now travellers can also book their bus trips.
+
+She said, technology is a good way to resolve things because it is cheap.
+
+She cited Grab, where with just a software, the problem in taxi transportation is fixed. Plus, they don\'t have that many people to maintain that service.
+
+Now, she is trying to deal with local bus companies in Cagayan de Oro to join her website so that they too can experience having to upgrade with technology as tourists do not only come from the Philippines but also other countries like China, Korea and others.
+
+John Vincent Fiel, co-founder of Wela School Systems, a local tech startup in Cagayan de Oro City reiterated that an app or software should be something that can solve a problem of a person or community. \"First, mangita gyud og problem sa tao - First, look for a problem,\" he said.
+
+His team came up with a software that helps schools with more efficient grading systems. Teachers specifically would no longer use manual calculations but through a software installed in their computers.
+
+He said he will not force everyone to be entrepreneurs. \"Each one of us is unique,\" he said.
+
+But these movements, startup meetup can spark those who don\'t know that this can be done or those that have the potential but just need more influence.
+
+\"For employees, I\'m not saying that they are apart because in the startup we need people also,\" he said.
+
+His advice: \"Go to companies that are very innovative, active and would give you so much learning and experience.\"
+
+The mapping aimed to support DICT\'s seedPH program in building and establising a network to organize a startup ecosystem in local communities.
+
+The event was partnered by IdeaSpace Foundation and Cagayan de Oro ICT Business Council. (Sheena Pabia/PIA 10 intern)
+
+</div>
+</div>
+</div>
+</div>
+<div class=\"row collapse share-section\"></div>
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-25 19:27:33]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => c25a7514f5
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/
+    [auto_draft] => 
+    [post_ID] => 79
+    [meta-box-order-nonce] => 3935f22b41
+    [closedpostboxesnonce] => e189c36e00
+    [original_post_title] => 
+    [post_title] => DICT facilitates local startup meet-up in CDO
+    [samplepermalinknonce] => 6849e0b88c
+    [_elementor_edit_mode_nonce] => 4fad2eccd7
+    [_elementor_post_mode] => 
+    [content] => <div class=\"row collapse world-new-section\">
+<div class=\"banner-section\">
+<div class=\"banner-text\">
+<div>
+
+CAGAYAN DE ORO CITY, December 17 (PIA)--The Department of Information and Communications Technology (DICT) gathered some 20 technopreneurs for a Local StartUp mapping with Focused Group Discussion (FGD) and community meetup to evaluate and strengthen the startup ecosystem here.
+
+\"The main goal is to have this ecosystem included in the cities just like Cagayan de Oro so that IT-BPM industry will come back in,\" said Engr. Eugene Raposala III of DICT.
+
+The investors have a score card to determine if the city has this ecosystem, and if they see we are ready, they will put us back in the top 100 IT-BPMs ready cities in the world, he added.
+
+During the mapping, successful tech startup entrepreneurs shared their journey on how they built their own businesses. They also gave advices and some words of wisdom to those aspiring tech startups.
+
+One of the speakers, CEO and co-founder of Pinoy Travel, Aurora Soriano shared \"you need to find a problem in your community. There are problems everywhere,\" she said, \"and use technology to solve the problem.\"
+
+In her experience, she had to find her startup business in the bus terminal.
+
+With flocks of people going to their hometown especially during holidays, she thought, if these people only knew the schedule of these buses, they won\'t have to wait for hours for availability and push themselves with everybody else to get a ride to their hometowns.
+
+In 2012, she created a website called Pinoy Travel, where just like booking for air flights, now travellers can also book their bus trips.
+
+She said, technology is a good way to resolve things because it is cheap.
+
+She cited Grab, where with just a software, the problem in taxi transportation is fixed. Plus, they don\'t have that many people to maintain that service.
+
+Now, she is trying to deal with local bus companies in Cagayan de Oro to join her website so that they too can experience having to upgrade with technology as tourists do not only come from the Philippines but also other countries like China, Korea and others.
+
+John Vincent Fiel, co-founder of Wela School Systems, a local tech startup in Cagayan de Oro City reiterated that an app or software should be something that can solve a problem of a person or community. \"First, mangita gyud og problem sa tao - First, look for a problem,\" he said.
+
+His team came up with a software that helps schools with more efficient grading systems. Teachers specifically would no longer use manual calculations but through a software installed in their computers.
+
+He said he will not force everyone to be entrepreneurs. \"Each one of us is unique,\" he said.
+
+But these movements, startup meetup can spark those who don\'t know that this can be done or those that have the potential but just need more influence.
+
+\"For employees, I\'m not saying that they are apart because in the startup we need people also,\" he said.
+
+His advice: \"Go to companies that are very innovative, active and would give you so much learning and experience.\"
+
+The mapping aimed to support DICT\'s seedPH program in building and establising a network to organize a startup ecosystem in local communities.
+
+The event was partnered by IdeaSpace Foundation and Cagayan de Oro ICT Business Council. (Sheena Pabia/PIA 10 intern)
+
+</div>
+</div>
+</div>
+</div>
+<div class=\"row collapse share-section\"></div>
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 25
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 24
+    [ss] => 43
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 25
+    [cur_jj] => 25
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 24
+    [cur_mn] => 24
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 1b29fa7a7d
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 83
+    [wc_pay_per_post_nonce] => dbb8ac67a0
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 4ebd017749
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => 4d7e0b0175
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 79
+    [post_content] => <div class=\"row collapse world-new-section\">
+<div class=\"banner-section\">
+<div class=\"banner-text\">
+<div>
+
+CAGAYAN DE ORO CITY, December 17 (PIA)--The Department of Information and Communications Technology (DICT) gathered some 20 technopreneurs for a Local StartUp mapping with Focused Group Discussion (FGD) and community meetup to evaluate and strengthen the startup ecosystem here.
+
+\"The main goal is to have this ecosystem included in the cities just like Cagayan de Oro so that IT-BPM industry will come back in,\" said Engr. Eugene Raposala III of DICT.
+
+The investors have a score card to determine if the city has this ecosystem, and if they see we are ready, they will put us back in the top 100 IT-BPMs ready cities in the world, he added.
+
+During the mapping, successful tech startup entrepreneurs shared their journey on how they built their own businesses. They also gave advices and some words of wisdom to those aspiring tech startups.
+
+One of the speakers, CEO and co-founder of Pinoy Travel, Aurora Soriano shared \"you need to find a problem in your community. There are problems everywhere,\" she said, \"and use technology to solve the problem.\"
+
+In her experience, she had to find her startup business in the bus terminal.
+
+With flocks of people going to their hometown especially during holidays, she thought, if these people only knew the schedule of these buses, they won\'t have to wait for hours for availability and push themselves with everybody else to get a ride to their hometowns.
+
+In 2012, she created a website called Pinoy Travel, where just like booking for air flights, now travellers can also book their bus trips.
+
+She said, technology is a good way to resolve things because it is cheap.
+
+She cited Grab, where with just a software, the problem in taxi transportation is fixed. Plus, they don\'t have that many people to maintain that service.
+
+Now, she is trying to deal with local bus companies in Cagayan de Oro to join her website so that they too can experience having to upgrade with technology as tourists do not only come from the Philippines but also other countries like China, Korea and others.
+
+John Vincent Fiel, co-founder of Wela School Systems, a local tech startup in Cagayan de Oro City reiterated that an app or software should be something that can solve a problem of a person or community. \"First, mangita gyud og problem sa tao - First, look for a problem,\" he said.
+
+His team came up with a software that helps schools with more efficient grading systems. Teachers specifically would no longer use manual calculations but through a software installed in their computers.
+
+He said he will not force everyone to be entrepreneurs. \"Each one of us is unique,\" he said.
+
+But these movements, startup meetup can spark those who don\'t know that this can be done or those that have the potential but just need more influence.
+
+\"For employees, I\'m not saying that they are apart because in the startup we need people also,\" he said.
+
+His advice: \"Go to companies that are very innovative, active and would give you so much learning and experience.\"
+
+The mapping aimed to support DICT\'s seedPH program in building and establising a network to organize a startup ecosystem in local communities.
+
+The event was partnered by IdeaSpace Foundation and Cagayan de Oro ICT Business Council. (Sheena Pabia/PIA 10 intern)
+
+</div>
+</div>
+</div>
+</div>
+<div class=\"row collapse share-section\"></div>
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-21 21:46:07]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => e5ecff031b
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [auto_draft] => 1
+    [post_ID] => 73
+    [meta-box-order-nonce] => 6798ef3787
+    [closedpostboxesnonce] => 960718bcb2
+    [original_post_title] => 
+    [post_title] => Teste 2
+    [samplepermalinknonce] => 5f70511621
+    [_elementor_edit_mode_nonce] => 150fd6c7a1
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 21
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 45
+    [ss] => 21
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 21
+    [cur_jj] => 21
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 45
+    [cur_mn] => 45
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 38c2293b4a
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 55
+    [wc_pay_per_post_nonce] => 3430d88de5
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 2e561f2fd2
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => ae31982d95
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 73
+    [post_content] => 
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-21 21:46:07]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => e5ecff031b
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [auto_draft] => 1
+    [post_ID] => 73
+    [meta-box-order-nonce] => 6798ef3787
+    [closedpostboxesnonce] => 960718bcb2
+    [original_post_title] => 
+    [post_title] => Teste 2
+    [samplepermalinknonce] => 5f70511621
+    [_elementor_edit_mode_nonce] => 150fd6c7a1
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 21
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 45
+    [ss] => 21
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 21
+    [cur_jj] => 21
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 45
+    [cur_mn] => 45
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 38c2293b4a
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 55
+    [wc_pay_per_post_nonce] => 3430d88de5
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 2e561f2fd2
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => ae31982d95
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 73
+    [post_content] => 
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-21 21:45:52]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 373a13fa58
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [auto_draft] => 
+    [post_ID] => 72
+    [meta-box-order-nonce] => 6798ef3787
+    [closedpostboxesnonce] => 960718bcb2
+    [original_post_title] => 
+    [post_title] => Teste
+    [samplepermalinknonce] => 5f70511621
+    [_elementor_edit_mode_nonce] => 150fd6c7a1
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 21
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 45
+    [ss] => 15
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 21
+    [cur_jj] => 21
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 45
+    [cur_mn] => 45
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 38c2293b4a
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 56
+    [wc_pay_per_post_nonce] => 3430d88de5
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 2e561f2fd2
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => ae31982d95
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 72
+    [post_content] => 
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-21 21:45:52]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 373a13fa58
+    [_wp_http_referer] => /wp-admin/post-new.php
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => post
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/admin.php?page=caldera-forms
+    [auto_draft] => 
+    [post_ID] => 72
+    [meta-box-order-nonce] => 6798ef3787
+    [closedpostboxesnonce] => 960718bcb2
+    [original_post_title] => 
+    [post_title] => Teste
+    [samplepermalinknonce] => 5f70511621
+    [_elementor_edit_mode_nonce] => 150fd6c7a1
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 21
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 45
+    [ss] => 15
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 21
+    [cur_jj] => 21
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 45
+    [cur_mn] => 45
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [post_category] => Array
+        (
+            [0] => 0
+        )
+
+    [newcategory] => Nome da nova categoria
+    [newcategory_parent] => -1
+    [_ajax_nonce-add-category] => 38c2293b4a
+    [tax_input] => Array
+        (
+            [post_tag] => 
+        )
+
+    [newtag] => Array
+        (
+            [post_tag] => 
+        )
+
+    [page_template] => default
+    [_thumbnail_id] => 56
+    [wc_pay_per_post_nonce] => 3430d88de5
+    [excerpt] => 
+    [trackback_url] => 
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 2e561f2fd2
+    [advanced_view] => 1
+    [comment_status] => open
+    [ping_status] => open
+    [post_name] => 
+    [post_author_override] => 1
+    [dess_post_meta_box_nonce] => ae31982d95
+    [dess_post] => Array
+        (
+            [page_featured_type] => 
+            [page_video_id] => 
+        )
+
+    [post_mime_type] => 
+    [ID] => 72
+    [post_content] => 
+    [post_excerpt] => 
+    [to_ping] => 
+)
+
+[2018-12-19 21:48:11]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ae7250dff0
+    [_wp_http_referer] => /wp-admin/post.php?post=49&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/post-new.php?post_type=page&wp-post-new-reload=true
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/post-new.php?post_type=page&wp-post-new-reload=true
+    [post_ID] => 49
+    [meta-box-order-nonce] => cd53d15dfd
+    [closedpostboxesnonce] => 97402b3b37
+    [original_post_title] => Home
+    [post_title] => Home
+    [samplepermalinknonce] => 35923eb021
+    [_elementor_edit_mode_nonce] => a0bac7c6cc
+    [_elementor_post_mode] => 
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 19
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 41
+    [ss] => 16
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 41
+    [cur_mn] => 48
+    [original_publish] => Actualizar
+    [save] => Actualizar
+    [parent_id] => 
+    [page_template] => elementor_header_footer
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => e1bb42b022
+    [meta] => Array
+        (
+            [167] => Array
+                (
+                    [key] => wc_pay_per_post_product_ids
+                    [value] => 
+                )
+
+        )
+
+    [_ajax_nonce] => efbcc0a331
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => a015cbb261
+    [advanced_view] => 1
+    [add_comment_nonce] => 7bfb750576
+    [_ajax_fetch_list_nonce] => cc10a0f24c
+    [post_name] => home
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 49
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-19 21:41:16]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ae7250dff0
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/
+    [auto_draft] => 
+    [post_ID] => 49
+    [meta-box-order-nonce] => cd53d15dfd
+    [closedpostboxesnonce] => 97402b3b37
+    [original_post_title] => 
+    [post_title] => Home
+    [samplepermalinknonce] => 35923eb021
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 19
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 38
+    [ss] => 57
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 38
+    [cur_mn] => 38
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => e1bb42b022
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => a015cbb261
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 49
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-12-19 21:41:16]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ae7250dff0
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/
+    [auto_draft] => 
+    [post_ID] => 49
+    [meta-box-order-nonce] => cd53d15dfd
+    [closedpostboxesnonce] => 97402b3b37
+    [original_post_title] => 
+    [post_title] => Home
+    [samplepermalinknonce] => 35923eb021
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 19
+    [mm] => 12
+    [aa] => 2018
+    [hh] => 21
+    [mn] => 38
+    [ss] => 57
+    [hidden_mm] => 12
+    [cur_mm] => 12
+    [hidden_jj] => 19
+    [cur_jj] => 19
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 21
+    [cur_hh] => 21
+    [hidden_mn] => 38
+    [cur_mn] => 38
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => e1bb42b022
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => a015cbb261
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 49
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:03:09]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 22c0f98536
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/post.php?post=9&action=edit
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/post.php?post=9&action=edit
+    [auto_draft] => 1
+    [post_ID] => 19
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Comprar
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 02
+    [ss] => 36
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 20
+    [hidden_mn] => 02
+    [cur_mn] => 02
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 19
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:03:08]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 22c0f98536
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/post.php?post=9&action=edit
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/post.php?post=9&action=edit
+    [auto_draft] => 1
+    [post_ID] => 19
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Comprar
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 20
+    [mn] => 02
+    [ss] => 36
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 20
+    [cur_hh] => 20
+    [hidden_mn] => 02
+    [cur_mn] => 02
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyselect] => #NONE#
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 19
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:02:21]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 66343c2141
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 13
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Vídeos
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 13
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 13
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:02:21]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 66343c2141
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 13
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Vídeos
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 13
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 13
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:00:34]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ea630be925
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 1
+    [post_ID] => 12
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Contate-nos
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 09
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 12
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:00:34]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => ea630be925
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 1
+    [post_ID] => 12
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Contate-nos
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 09
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 12
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:00:05]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => bc90598bf7
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 1
+    [post_ID] => 11
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Soluções
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 05
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 11
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 20:00:05]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => bc90598bf7
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 1
+    [post_ID] => 11
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Soluções
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 05
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 11
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 19:59:59]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 09298cc11f
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 10
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Notícias
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 01
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => tpl-blog.php
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 10
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 19:59:59]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 09298cc11f
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 10
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Notícias
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 59
+    [ss] => 01
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 59
+    [cur_mn] => 59
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => tpl-blog.php
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 10
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 19:59:49]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 9b6cc42169
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 9
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Sobre
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 58
+    [ss] => 58
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 58
+    [cur_mn] => 58
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 9
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 19:59:49]   -----[DEBUG]-----  Saving Meta Box Data Array
+(
+    [_wpnonce] => 9b6cc42169
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => https://pthink.000webhostapp.com/wp-admin/
+    [_wp_original_http_referer] => https://pthink.000webhostapp.com/wp-admin/
+    [auto_draft] => 
+    [post_ID] => 9
+    [meta-box-order-nonce] => 4462d61dd5
+    [closedpostboxesnonce] => 128ddbab5b
+    [original_post_title] => 
+    [post_title] => Sobre
+    [samplepermalinknonce] => 343f6643b1
+    [content] => 
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 14
+    [mm] => 11
+    [aa] => 2018
+    [hh] => 19
+    [mn] => 58
+    [ss] => 58
+    [hidden_mm] => 11
+    [cur_mm] => 11
+    [hidden_jj] => 14
+    [cur_jj] => 14
+    [hidden_aa] => 2018
+    [cur_aa] => 2018
+    [hidden_hh] => 19
+    [cur_hh] => 19
+    [hidden_mn] => 58
+    [cur_mn] => 58
+    [original_publish] => Publicar
+    [publish] => Publicar
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [wc_pay_per_post_nonce] => 3e4092345e
+    [metakeyinput] => 
+    [metavalue] => 
+    [_ajax_nonce-add-meta] => 40a5531912
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [post_mime_type] => 
+    [ID] => 9
+    [post_content] => 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+[2018-11-14 19:59:49]   -----[DEBUG]-----  Initial Log File Created
